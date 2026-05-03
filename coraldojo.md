@@ -14,3 +14,6 @@ npx coralos-dev@coraldojo server start --config-profile=coraldojo -- --auth.keys
 
 http://localhost:5555/ui/console
 
+
+Reference repo:
+https://github.com/Coral-Protocol/coral-server
