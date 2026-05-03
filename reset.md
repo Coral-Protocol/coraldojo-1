@@ -11,5 +11,5 @@ rm -rf "$(PWD)/my-cool-agent"
 
 Delete config
 ```bash
-rm -r /Users/caelum/.coral/config-profiles/coraldojo
+rm -r ~/.coral/config-profiles/coraldojo
 ```
